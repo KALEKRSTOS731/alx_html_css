@@ -1,1 +1,382 @@
+* {
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+    
+}
 
+.division {
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-left: 126px;
+}
+.get {
+    margin-bottom: -110px;
+}
+
+.head {
+
+    font-size: 120px;
+    margin-bottom: px;
+  
+    padding-top: 165px;
+}
+.school {
+    margin-top: -130px;
+    
+}
+.sgl {
+    font-size: 16px;
+   margin-top: 300px;
+    word-spacing: 55px;
+    
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    padding-top: 95px;
+}
+
+li {
+
+    color: white;
+    margin-right: 78px;
+}
+.logo {
+    margin-right: 697px;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    padding-top: 31px;
+    font-size: 12px;
+}
+.li {
+    color: white;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.text-button {
+    display: inline-block;
+    /* Makes it behave like a button */
+    background-color: #C271FF;
+    /* Button background color */
+    color: #fff;
+    /* Text color */
+    padding: 10px 20px;
+    /* Padding around the text */
+    font-size: 10px;
+    /* Font size */
+    border: none;
+    /* Removes default border */
+    border-radius: 25px;
+    /* Adds rounded corners */
+    cursor: pointer;
+    /* Changes cursor to a pointer */
+    text-decoration: none;
+    /* Removes underline for links */
+    text-align: center;
+    /* Centers text */
+    position: absolute;
+    top: 62%;
+    left: 43%;
+    right: 43%;
+    
+    box-shadow: 0 0 10px rgba(8, 8, 8, 0.5);
+
+}
+.bitmap13 {
+    margin-left: 45px;
+}
+
+.most1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-top: -40px;
+    text-align: center;
+    color: white;
+    margin-left: 140px;
+}
+
+.av1 {
+    margin-left: 150px;
+}
+
+.learn {
+    color: #C271FF;
+}
+
+
+.membership {
+    background: #071629;
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 70px;
+    
+}
+.lorem1 {
+    margin-left: 40px;
+    margin-bottom: -90px;
+}
+.ipsum2 {
+    margin-left: 45px;
+    margin-bottom: 25px;
+}
+.for {
+    display: inline-block;
+    /* Makes it behave like a button */
+    background-color: #C271FF;
+    /* Button background color */
+    color: #fff;
+    /* Text color */
+    padding: 10px 20px;
+    /* Padding around the text */
+    font-size: 10px;
+    /* Font size */
+    border: none;
+    /* Removes default border */
+    border-radius: 25px;
+    /* Adds rounded corners */
+    cursor: pointer;
+    /* Changes cursor to a pointer */
+    text-decoration: none;
+    /* Removes underline for links */
+    text-align: center;
+    /* Centers text */
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 500px;
+    box-shadow: 0 0 10px rgba(8, 8, 8, 0.5);
+}
+.member1 {
+    
+    margin-bottom: 50px;
+    margin-right: 240px;
+}
+
+li {
+    display: inline;
+    margin-left: 50px;
+
+}
+
+.background {
+    background: #979797, #071629;
+
+    background-image: url("background.png");
+
+    background-blend-mode: multiply;
+    width: auto;
+    height: 1093px;
+
+}
+
+.container {
+    width: auto;
+    height: 103px;
+    background-color: #071629;
+
+}
+
+.weather {
+    width: auto;
+    height: 392px;
+    background-color: #C271FF;
+    padding-left: 260px;
+    padding-top: 107px;
+    padding-bottom: 126px;
+    display: flex;
+    
+    align-items: center;
+    
+    gap: 12px;
+    
+    
+}
+.p0 {
+    margin-left: -400px;
+    
+}
+.quote {
+    margin-bottom: 40px;
+}
+.pop1 {
+    color: #C271FF;
+}
+.fa-solid.fa-star,.star1 {
+    display: inline-block;
+}
+.star1 {
+    display: inline-block;
+    margin-top: -75px;  
+}
+
+
+.text {
+    margin-left: -170px;
+    padding-left: 215px;
+
+    color: white;
+   
+
+
+
+}
+
+.popular {
+    width: 1203px;
+    height: 400px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+
+    display: inline-block;
+
+}
+.tutor {
+    margin-top: 38px;
+}
+
+.abebe {
+    display: inline-block;
+    margin-right: 29px;
+}
+
+.h2 {
+    color: rgb(0, 0, 0);
+}
+
+.fa-solid.fa-star {
+    display: inline-block;
+    color: #C271FF;
+}
+
+ul {
+    text-align: right;
+    margin-right: 160px;
+}
+
+.footer {
+    height: 250px;
+    background: #071629;
+}
+
+.avatar99 {
+    display: inline-block;
+    margin-right: 5px;
+    
+}
+
+.container1,
+.container2,
+.container3,
+.container4 {
+    display: flex;
+    /* Enables Flexbox */
+    align-items: center;
+    /* Aligns items vertically */
+    gap: 12px;
+    /* Adds space between photo and text */
+    border-radius: 15px;
+}
+
+.photo,
+.photo1,
+.photo2,
+.photo3 {
+    margin-top: 20px;
+    object-fit: cover;
+    /* Ensures the image fits nicely */
+}
+
+.text1,
+.text2,
+.text3,
+.text4 {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.smile,
+.smile1,
+.smile2,
+.smile3 {
+    display: inline-block;
+    margin-right: 115px;
+    color: white;
+    
+}
+
+.faq1,
+.faq2 {
+    display: inline-block;
+    margin-right: 218px;
+
+}
+
+.faq3,
+.faq4 {
+    display: inline-block;
+    margin-right: 218px;
+
+}
+
+
+.faq12 {
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+.faq34 {
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+
+.faq1234 {
+    height: 780px;
+    width: 1312px;
+    padding-top: 135px;
+    
+}
+.h12 {
+    color: black;
+    margin-right: 350px;
+    margin-bottom: 100px;
+}
+.how {
+    margin-bottom: 56px;  
+}
+.iclass {
+    padding-top: 100px;
+    margin-left: 150px;
+}
+.p2020 {
+    color: rgb(84, 81, 81);
+    padding-top: 85px;
+    
+}
