@@ -1,1 +1,22 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  .header {
+  background-image: url('headphones_hero_1.jpg');
+  background-size: cover;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  height: 800px;
+  width: auto;
+  }
 
+ 
+  
+  
