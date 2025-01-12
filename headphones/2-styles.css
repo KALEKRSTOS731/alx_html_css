@@ -1,1 +1,24 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container3 {
+    font-family: 'Source Sans Pro';
+    font-size: 16px;
+    text-align: center;
+    padding-top: 189px;
+    height: 187px;
+    width: 684px;
+  }
+  .section {
+    background-image: url('headphones_hero_2.jpg');
+    background-size: cover;
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    height: 800px;
+    width: auto;
+   padding-top: 20px;   
+   }
